@@ -6,3 +6,4 @@ Feel free to use it though..
 
 The actual Dirty Cow exploit codes were shamelessly stolen from https://dirtycow.ninja/
 
+![](https://i.imgflip.com/52jfpa.jpg)
